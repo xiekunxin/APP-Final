@@ -1,7 +1,7 @@
 ### Surf 城市边缘
 #### [关于我们：](https://mp.weixin.qq.com/s?__biz=MzIxOTE3MjE2OA==&mid=2653600437&idx=1&sn=bf165629ce20bfd4579d47de675e3680&pass_ticket=KriLa9yhlT3uLIaiUDbEas9ajfgMTWmyztePAVmMts8%3D)
 * 产品定位:
- 线路属性 | 业务模式 | 参与难度 | 参与者
+线路属性| 业务模式 | 参与难度 | 参与者
 ---|--- |--- |
 周边短线 | 间接散客 | 休闲旅行 | 儿童夏令营 | 
 境内长线 | 直接散客 | 户外入门 | 亲子活动 | 
