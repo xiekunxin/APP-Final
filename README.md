@@ -5,6 +5,7 @@
 * 产品：Surf 城市边缘（社交应用类APP）[关于我们：](https://mp.weixin.qq.com/s?__biz=MzIxOTE3MjE2OA==&mid=2653600437&idx=1&sn=bf165629ce20bfd4579d47de675e3680&pass_ticket=KriLa9yhlT3uLIaiUDbEas9ajfgMTWmyztePAVmMts8%3D) 
 * 定位：旅行活动及衍生文化内容平台<br>
 * 创建日期：2018年12月15日<br>
+
  组长 | 谢坤鑫
 ---|---
  组员 | 张广彬
