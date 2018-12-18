@@ -78,11 +78,12 @@ Surf 城市旅行旅行APP正是提供攻略分享以及活动招募流通平台
 盈利模式：广告盈利
 业务模式：与各大旅游公司合作，定期获取旅游资源数据；根据用户需求串联相应的资源点生成一条行程；产生支付后，系统自动在供应商后台实现预订（供应链打通）。
 #### 1.2 产品框架图、使用流程图
-![产品框架图.jpg](https://i.loli.net/2018/12/18/5c1876e9ac65d.jpg)
-![使用流程图.jpg](https://i.loli.net/2018/12/18/5c1876e9ae0ad.jpg)
+![产品框架图.jpg](https://i.loli.net/2018/12/18/5c18ce8e1e3c1.jpg)
+![产品流程图.jpg](https://i.loli.net/2018/12/18/5c18cecfe02e9.jpg)
 #### 1.3 CMS产品框架图、流程图
-![CMS产品框架图.jpg](https://i.loli.net/2018/12/18/5c1876e9aa9c0.jpg)
-![CMS产品流程图.jpg](https://i.loli.net/2018/12/18/5c1876e9afe13.jpg)
+![cms产品架构图.jpg](https://i.loli.net/2018/12/18/5c18ce8dbf876.jpg)
+![cms 流程图.jpg](https://i.loli.net/2018/12/18/5c18ced03cb60.jpg)
+
 
 ![cms产品架构图.jpg](https://i.loli.net/2018/12/18/5c18ce8dbf876.jpg)
 ![产品框架图.jpg](https://i.loli.net/2018/12/18/5c18ce8e1e3c1.jpg)
