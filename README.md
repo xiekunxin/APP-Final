@@ -83,6 +83,8 @@ Surf 城市旅行旅行APP正是提供攻略分享以及活动招募流通平台
 #### 1.3 CMS产品框架图、流程图
 ![cms产品架构图.jpg](https://i.loli.net/2018/12/18/5c18ce8dbf876.jpg)
 ![cms 流程图.jpg](https://i.loli.net/2018/12/18/5c18ced03cb60.jpg)
+#### 1.4 角色权限架构图
+![角色权限架构图.png](https://i.loli.net/2018/12/25/5c2221a600a53.png)
 
 
 
