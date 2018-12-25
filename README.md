@@ -85,10 +85,7 @@ Surf 城市旅行旅行APP正是提供攻略分享以及活动招募流通平台
 ![cms 流程图.jpg](https://i.loli.net/2018/12/18/5c18ced03cb60.jpg)
 
 
-![cms产品架构图.jpg](https://i.loli.net/2018/12/18/5c18ce8dbf876.jpg)
-![产品框架图.jpg](https://i.loli.net/2018/12/18/5c18ce8e1e3c1.jpg)
-![产品流程图.jpg](https://i.loli.net/2018/12/18/5c18cecfe02e9.jpg)
-![cms 流程图.jpg](https://i.loli.net/2018/12/18/5c18ced03cb60.jpg)
+
 
 关于前端产品与CMS产品交互性的文字描述 
 1.	新用户在前端产品成功注册一个账号，后台管理员用户管理列表新增该用户。  
